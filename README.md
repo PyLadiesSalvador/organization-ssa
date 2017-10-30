@@ -1,5 +1,4 @@
 # organization-ssa
-Repositório de para listar as atividades grupo
 
 Criamos esse repositório com o intuito de organizar/gerenciar as atividades do grupo PyLadies Salvador. Aqui você encontrará pessoas que estão na frente do PyLadies Salvador.
 
