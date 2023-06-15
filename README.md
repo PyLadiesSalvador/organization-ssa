@@ -11,3 +11,8 @@ O que é o grupo PyLadies?
 - [PyLadies Brasil Handbook](https://pyladies-brasil.gitbooks.io/handbook-pyladies/content/)
 - [Código de Conduta - Portugês](https://github.com/pyladies-brazil/codigo-de-conduta)
 - [Código de Conduta - Inglês](https://pyladies.com/CodeOfConduct/)
+
+### Indicações de materiais:
+
+- [Guia para submissão de palestras e atividades](https://docs.google.com/presentation/d/1MibZCy6ZO7rdlAqcKq07CWvU6JMMeWrpUK-cIw-A70M/edit#slide=id.g2527301e8a9_0_39)
+- [ÓPyÓ - Grupo de estudo em Python do PyLadies Salvador](https://github.com/PyLadiesSalvador/o-py-o)
