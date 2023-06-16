@@ -14,5 +14,5 @@ O que é o grupo PyLadies?
 
 ### Indicações de materiais:
 
-- [Guia para submissão de palestras e atividades](https://docs.google.com/presentation/d/1MibZCy6ZO7rdlAqcKq07CWvU6JMMeWrpUK-cIw-A70M/edit#slide=id.g2527301e8a9_0_39)
+- [Guia para submissão de palestras e atividades](https://github.com/PyLadiesSalvador/organization-ssa/blob/master/PyLadies%20Salvador%20-%20Submiss%C3%A3o%20Palestras%20%26%20Atividades.pdf)
 - [ÓPyÓ - Grupo de estudo em Python do PyLadies Salvador](https://github.com/PyLadiesSalvador/o-py-o)
